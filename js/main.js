@@ -2,7 +2,7 @@
 "use strict";
 
 // ==========================================
-// EVENTORA - HOMEPAGE INTERACTIONS
+// EVENTHUB - HOMEPAGE INTERACTIONS
 // Demo data will later come from the backend.
 // ==========================================
 
